@@ -1,0 +1,10 @@
+{
+    "name": "com.aurecas.aurecasevents",
+    "author": "Aurecas",
+    "displayName": "Aurecas Events",
+    "version": "1.1.0",
+    "unity": "2019.4",
+    "keywords": [],
+    "description": "Biblioteca de códigos da Aurecas para coleta de eventos do Firebase",
+    "samples": []
+}
